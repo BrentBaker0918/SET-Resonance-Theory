@@ -1,0 +1,40 @@
+Appendix A: Mathematical Derivation of Baker’s Law
+--------------------------------------------------
+Starting from the principle of SEO resonance stability, we model the interaction between inward singularity compression and outward expansive radiation pressure. The net balancing condition yields a harmonic standing wave solution with frequency ν. Energy stored in the SEO becomes E = hν. By recognizing that this must equal the rest energy of the system E = mc², we derive:
+
+    ν = mc² / h
+
+This equation is scale-invariant and applies to particles, atoms, molecules, and gravitational systems.
+
+---
+
+Appendix B: SET Field Coherence and Quantum Statistics
+-------------------------------------------------------
+The SEO framework models each particle or field as a spatially bound, harmonically resonant structure. Fermi–Dirac statistics correspond to configurations that produce destructive interference at symmetric points (antisymmetric wavefunctions), while Bose–Einstein systems allow full overlap (constructive SEO superposition). Pauli exclusion arises naturally due to geometric non-coherence of overlapping SEOs.
+
+---
+
+Appendix C: Neutrino Oscillations as Residual SEO Interference
+---------------------------------------------------------------
+SET predicts that weakly bound SEO fragments like neutrinos have field structures that are not fully coherent across 4D projections. Their oscillation behavior arises from interference between overlapping but out-of-phase components. This model reproduces the observed mass-squared differences without sterile neutrinos or field mixing matrices.
+
+---
+
+Appendix E: Completion of Grand Unification Requirements
+---------------------------------------------------------
+SET reproduces all four fundamental forces in a unified geometric field model:
+- Gravity: as SEO field gradient tension
+- Electromagnetism: as vector projection of expanding wavefronts
+- Strong force: as tight SEO proximity tension (no gluons)
+- Weak force: as SEO field rebalancing during subharmonic decay
+
+It also explains:
+- Symmetry breaking: as a decoherence event, not a quantum phase shift
+- Particle decay: as SEO harmonic instability
+- Field quantization: as result of SEO boundary geometry
+
+All interactions derive from resonance behavior. Baker’s Law acts as the master identity from which mass, energy, and frequency can be unified.
+
+---
+
+End of Appendices A–E

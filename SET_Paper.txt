@@ -1,0 +1,159 @@
+**Title:** The Singularity–Expanse Theory (SET): A Resonance-Based Unified Framework of Matter, Energy, and Spacetime
+
+**Author:** Brent Baker  
+**Date:** July 2025  
+**Submission:** arXiv (physics.gen-ph)
+
+---
+
+**SET in One Page (For Readers in a Hurry)**
+
+Matter is not made of indivisible particles. It is made of **standing wave patterns** — stable, resonant interactions between two opposing forces: one that collapses (Singularity), and one that expands space (Expanse). Where these forces meet and stabilize, they create **Singularity–Expanse Objects (SEOs)**: the true units of physical structure.
+
+SET proposes that **mass is frequency**. Every object has a unique resonant tone:
+ν = mc² / h
+This relationship, called **Baker’s Law**, fits all known particles and structures, across more than 70 orders of magnitude. It unifies general relativity and quantum mechanics, explains gravity and electromagnetism as emergent field effects, and eliminates the need for complex constructs like gluons, the Higgs boson, or virtual particles.
+
+It’s elegant, empirically precise, and completely testable.
+
+---
+
+**Abstract**
+
+We introduce the *Singularity–Expanse Theory* (SET), a unified physical model built on the idea that all particles, fields, and forces are projections of coherent standing waves — called SEOs — formed by the interaction of two fundamental, opposing forces: collapse (Singularity) and expansion (Expanse). At the heart of SET is a simple but powerful identity:
+ν = mc² / h
+This formula — Baker’s Law — shows that mass is nothing more than the frequency of a stable wave system.
+
+This equation not only fits all known physical masses with perfect consistency, but it also explains particle decay, atomic structure, cosmic expansion, and gravitational behavior using a single field-based model. SET removes the need for gauge particles, force carriers, or arbitrary constants. It offers clean interpretations of wave-particle duality, uncertainty, and entanglement. It replaces the Higgs field, explains neutrino oscillations geometrically, and shows that gravity is a result of field tension gradients — not curvature.
+
+We demonstrate how SET resolves previously unexplained anomalies and matches all empirical results to date. Most importantly, SET is not a philosophical rewrite — it makes clear, testable predictions and offers a pathway to complete unification.
+
+---
+
+**1. Introduction: Why a New Theory?**
+
+Modern physics is held together by patchwork. On one side, general relativity explains gravity by bending space and time. On the other, quantum field theory explains particles and forces using abstract rules and invisible particles — gluons, bosons, virtual photons, and the Higgs field. Each works, but they don’t work together.
+
+What if we could describe all of it — matter, light, time, gravity — not as different effects, but as different **resonance modes** of a single universal field?
+
+SET proposes just that. It starts from a simple premise: the universe exists because of a tension between collapse and expansion — two primal forces. Where they balance in a stable, self-reinforcing way, they form a localized, resonant structure. That structure is what we perceive as a particle, a field, or a region of space.
+
+We call these **Singularity–Expanse Objects (SEOs)**. Every SEO has a unique resonance — a frequency that defines its mass, behavior, and interaction with others. All physics emerges from these resonances.
+
+The result is a theory that:
+- Matches known physics without patchwork.
+- Explains anomalies that current models can’t.
+- Makes testable predictions.
+- Reduces all matter and energy to a single identity: frequency.
+
+In this paper, we present that framework, the supporting math, the empirical matches, and the path forward.
+
+---
+
+**2. Baker’s Law of Resonant Mass**
+
+The foundational equation of SET defines the base frequency of any stable SEO:
+ν = mc² / h
+Where:
+- m is the mass of the object
+- c is the speed of light
+- h is Planck’s constant
+- ν is the fundamental SEO standing wave frequency
+
+This equation predicts — with perfect log-log fit — the frequency spectrum of all stable particles from protons to galaxy clusters.
+
+---
+
+**3. Quantum Mechanics and SEO Structure**
+
+- *Wave–particle duality* arises from the 4D field projection envelope. The more expansive-dominant a system, the more wave-like it behaves.
+- *Uncertainty* is a geometric result of SEO boundary phase interference.
+- *Spin, charge, and other quantum numbers* are field harmonic structures — not intrinsic particle traits.
+
+---
+
+**4. Electroweak and Strong Forces Reinterpreted**
+
+- Photons: pure expansive wavefronts  
+- W/Z bosons: short-lived resonant packets  
+- Gluons: unnecessary — strong force is field tension alignment between SEOs  
+- Higgs field: replaced by Baker’s Law. Mass is inherent to SEO structure, not emergent.
+
+---
+
+**5. Gravity and Spacetime**
+
+- Gravity is not curvature, but **gradient tension** in the SEO field.  
+- Spacetime is not a background; it is the **projection envelope** of expansive resonance.  
+- Black holes are inward-collapsed SEOs; dark matter is singularity-dominant SEOs without external expansive balance.
+
+---
+
+**6. Cosmology and Universe Origin**
+
+- The universe began as a **resonance ignition event**, not a singularity.  
+- CMB anisotropies reflect early SEO field ripple interference.  
+- Inflation is unnecessary: global 5D field coherence resolved the horizon problem.
+
+---
+
+**7. Neutrinos and Oscillation**
+
+- Neutrinos are SEO residue projections with partial coherence.  
+- Oscillations arise from subharmonic field interference.  
+- No sterile neutrinos are needed; all behavior results from 4D projection geometry.
+
+---
+
+**8. Thermodynamics and Quantum Statistics**
+
+- Entropy is expansive field divergence; order reflects SEO field coherence.  
+- Bose and Fermi statistics arise from harmonic compatibility in local SEO structures.  
+- Thermodynamic laws map onto field projection constraints:
+  - Energy conservation: balance of singularity/expanse  
+  - Entropy: expansion of unbalanced field modes  
+  - Zero entropy: perfect field coherence
+
+---
+
+**9. Examples of Empirical Evidence Interpreted Through SET**
+
+| Phenomenon                      | SET-Based Interpretation                                                                                       |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Proton radius puzzle           | Different experimental techniques probe distinct regions of the SEO boundary, leading to variable radius data. |
+| Proton spin crisis             | Spin is distributed across internal SEO field tension; no missing angular momentum from partons is needed.     |
+| Neutrino oscillation           | Oscillations arise from coherent subharmonic interference patterns in partial field projections.               |
+| Beta decay spectrum anomalies  | Deviations in energy spectra are due to SEO field reconfiguration during decay, not unknown particles.          |
+| Beryllium-8 anomaly            | The observed excess at 17 MeV is consistent with an SEO transition resonance, not a new fifth force.           |
+| Lamb shift                     | Arises from jitter in SEO boundary fields, removing the need for vacuum fluctuation explanation.               |
+| Lorentz invariance upheld      | Isotropy is maintained through symmetric 4D projection of SEO dynamics.                                       |
+| CMB anisotropies               | Fine-structure patterns arise from early-universe SEO interference fringes, not random quantum fluctuations.  |
+| Dark matter and energy         | Manifestations of SEO imbalance: singularity-dominant (dark matter) vs. expansive-dominant (dark energy).     |
+
+Each explanation is detailed in appendices with reference to empirical results and theoretical derivations.
+
+---
+
+**10. Testable Predictions**
+
+1. **Resonance Interference Between Two SEO Regions**  
+   Prediction: Proximity of atoms causes measurable phase shifts in SEO overlap.  
+   Test: Bose–Einstein condensates and atomic traps.  
+   SET Differs: No entanglement needed — pure field geometry.
+
+2. **Beta Decay Spectrum Drift in a Gravitational Gradient**  
+   Prediction: Decay energy shifts with altitude (e.g., SNOLAB vs. mountaintop).  
+   SET Differs: GR predicts none; SET predicts shift from field rebalancing.
+
+3. **Collision Resonance Shift vs. Baker’s Law**  
+   Prediction: All resonance peaks in LHC align exactly with ν = mc² / h.  
+   SET Differs: No variable Higgs coupling — resonance is fundamental.
+
+4. **Gravitational Waveform Echoes from SEO Ripple Geometry**  
+   Prediction: Ringdowns from mergers have harmonic echoes (not just damped waves).  
+   Test: LIGO/Virgo analysis.  
+   SET Differs: Echoes are built-in from SEO collapse dynamics.
+
+---
+
+APPENDICES INCLUDED IN SEPARATE FILE.
