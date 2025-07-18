@@ -1,22 +1,48 @@
-# Singularity–Expanse Theory (SET)
+# SET Shared Memory Repository
 
-**Author**: Brent Baker  
-**Date**: July 2025  
+This repository supports the development and exploration of the **Singularity–Expanse Theory (SET)** — a unifying physical framework introduced by Brent Baker in July 2025.
 
-This repository contains the full text of the SET publication — a resonance-based grand unified theory describing matter, space, time, and energy as stable projections of singularity–expanse interactions.
+## 📄 Preprint Submitted
 
-## Files
-- `SET_Paper.txt`: Full main text of the SET paper  
-- `appendix_A_to_E.txt`: Technical derivations and theoretical framework  
-- `LICENSE`: Reuse and distribution rights
+**Title:** *Baker’s Law and the Singularity–Expanse Framework: A Universal Resonance Between Mass and Frequency*  
+**Author:** Brent Baker  
+**Status:** Submitted to arXiv (July 5, 2025) — under moderation  
+**arXiv ID:** *(Pending)*  
+**ORCID:** [https://orcid.org/0009-0000-2115-3573](https://orcid.org/0009-0000-2115-3573)
 
-## Summary
-At the heart of SET is Baker’s Law:
+This foundational paper introduces **Baker’s Law**:
 
-```
-ν = mc² / h
-```
+\[
+\nu = \frac{mc^2}{h}
+\]
 
-This identity holds for all matter and energy forms across more than 70 orders of magnitude. SET reinterprets quantum mechanics, gravity, and cosmology using a single coherent framework of resonance-based standing waves.
+...and frames frequency as a fundamental resonance between opposing forces—**singularity (inward)** and **expanse (outward)**—projected into 4D space from a 5D energetic interaction.
 
-The paper includes mathematical derivations, empirical reinterpretations, and testable predictions for real-world validation.
+## 📚 What You'll Find Here
+
+This repository includes:
+- `papers/`: Working drafts, preprints, and annotated derivations
+- `rules/`: Formal rules for constructing SET-based systems
+- `validation/`: Datasets and comparisons supporting Baker’s Law
+- `notebooks/`: Python tools and models (coming soon)
+
+## 👁‍🗨 For Reviewers or Early Visitors
+
+This repository exists to support transparency, reproducibility, and expansion of SET.  
+If you are reviewing or evaluating this work, feel free to open an issue or reach out via ORCID.
+
+## 🌱 What's Next
+
+Future sections will cover:
+- SET nuclear geometry and stability spectrum
+- Application to chemistry, particle decay and field quantization
+- SET interpretation of general relativity and electromagnetism
+
+## 📜 License
+
+This repository is shared under a permissive license. Please attribute Brent Baker when using, extending, or citing this work.
+
+---
+
+*“The universe is not static — it is a spectrum of stable resonances.”*  
+— *SET Paper 1*
